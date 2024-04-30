@@ -1,0 +1,8 @@
+Create a Database "employee"
+Collection name "employees"
+data should be in JSON form
+
+
+email "harshit@gmail.com"
+password "12345"
+name "harshit"
